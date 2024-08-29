@@ -1,0 +1,6 @@
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\bin\Release\DemoLibrary.dll
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\bin\Release\DemoLibrary.pdb
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\obj\Release\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\obj\Release\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\obj\Release\DemoLibrary.dll
+C:\Users\lenovo\Downloads\CSharpEventsDemo\EventsDemo_Start\DemoLibrary\obj\Release\DemoLibrary.pdb
